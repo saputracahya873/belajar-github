@@ -1,1 +1,14 @@
 # belajar-github
+Nama:Saputra cahya nur rohim
+Kelas: X TO4
+
+minat belajar AI:Minat belajar AI (Artificial Intelligence) adalah ketertarikan untuk mempelajari teknologi kecerdasan buatan, seperti machine learning, deep learning, dan natural language processing, serta penerapannya di berbagai bidang. Untuk mengembangkan minat ini, mulailah dengan memahami dasar-dasar AI, perbedaan AI, ML, dan DL, serta konsep algoritma, data, dan model. Pelajari bahasa pemrograman yang umum digunakan seperti Python beserta framework-nya (TensorFlow, PyTorch, Scikit-learn), lalu mulai dari konsep sederhana seperti regresi linear, klasifikasi, dan neural network dasar. Gunakan sumber belajar gratis seperti Coursera, Kaggle, dan YouTube, kemudian coba proyek kecil seperti chatbot, sistem rekomendasi, atau prediksi harga. Selain itu, bergabunglah dengan komunitas AI melalui forum, Discord, atau kompetisi seperti Kaggle untuk mengasah keterampilan dan menambah wawasan.
+
+tujuan belajar GitHub : Tujuan belajar GitHub adalah untuk memahami cara mengelola dan menyimpan kode secara terstruktur menggunakan version control system berbasis Git, sehingga mempermudah kolaborasi dalam pengembangan perangkat lunak. Dengan GitHub, kita dapat mengontrol versi kode, melacak perubahan, memperbaiki bug tanpa mengganggu kode utama, serta bekerja sama dengan tim melalui fitur pull request dan branching. Selain itu, GitHub menjadi wadah untuk mempublikasikan proyek agar dapat diakses publik, membangun portofolio profesional, berkontribusi pada proyek open source, dan memanfaatkan integrasi dengan berbagai tools untuk otomatisasi, deployment, dan pengujian aplikasi
+
+menu Repositories : Menu Repositories di GitHub berfungsi untuk menampilkan daftar semua repositori yang dimiliki atau dibuat oleh pengguna. Repositori adalah tempat penyimpanan proyek yang berisi kode, dokumentasi, dan riwayat perubahan. Dari menu ini, pengguna dapat membuat repositori baru, mengatur visibilitas (publik atau privat), serta mengakses proyek yang sudah ada untuk diedit atau dikelola. Menu ini juga memudahkan kolaborasi dengan tim dalam pengembangan perangkat lunak.
+
+menu projects : Menu Projects di GitHub berfungsi untuk mengelola tugas dan alur kerja (workflow) suatu proyek dengan tampilan berbasis papan (board) seperti Kanban. Melalui menu ini, pengguna dapat membuat daftar tugas (to-do), mengatur prioritas, memantau progres, dan mengelompokkan pekerjaan. Fitur ini membantu tim mengorganisasi pengembangan perangkat lunak agar lebih terstruktur dan kolaboratif.
+
+menu Stars : Menu Stars di GitHub berfungsi untuk menyimpan dan menandai repositori favorit agar mudah diakses kembali. Dengan memberikan bintang (star), pengguna dapat menunjukkan apresiasi terhadap proyek tertentu atau menggunakannya sebagai referensi di masa depan. Menu ini membantu mengelompokkan repositori yang menarik tanpa harus melakukan fork atau clone.
+
